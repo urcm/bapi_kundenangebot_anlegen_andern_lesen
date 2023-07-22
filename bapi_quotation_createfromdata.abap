@@ -47,3 +47,8 @@ data: ls_order_items_in like line of lt_order_items_in.
 
 data: lt_return        type bapireturn1,
       lv_salesdocument type vbeln_va.
+
+data: lt_order_partners  type standard table of bapipartnr .
+data: ls_order_partners like line of lt_order_partners.
+data: lt_order_items_out  type standard table of bapiitemex.
+data: ls_order_items_out like line of lt_order_items_out.
