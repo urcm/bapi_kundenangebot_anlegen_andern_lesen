@@ -44,3 +44,6 @@
 data: lt_order_header_in  type bapisdhead.
 data: lt_order_items_in  type standard table of bapiitemin.
 data: ls_order_items_in like line of lt_order_items_in.
+
+data: lt_return        type bapireturn1,
+      lv_salesdocument type vbeln_va.
