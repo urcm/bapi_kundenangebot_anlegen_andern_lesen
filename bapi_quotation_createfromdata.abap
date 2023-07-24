@@ -55,3 +55,9 @@ data: ls_order_items_out like line of lt_order_items_out.
 
 data: lv_sold_to_party type bapisoldto,
       lv_ship_to_party type bapishipto.
+
+data: lt_order_cfgs_ref  type standard table of bapicucfg.
+data: lt_order_cfgs_inst  type standard table of bapicuins.
+data: lt_order_cfgs_part_of  type standard table of bapicuprt.
+data: lt_order_cfgs_value  type standard table of bapicuval.
+
