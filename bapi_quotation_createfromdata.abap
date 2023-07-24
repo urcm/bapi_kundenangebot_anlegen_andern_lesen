@@ -52,3 +52,6 @@ data: lt_order_partners  type standard table of bapipartnr .
 data: ls_order_partners like line of lt_order_partners.
 data: lt_order_items_out  type standard table of bapiitemex.
 data: ls_order_items_out like line of lt_order_items_out.
+
+data: lv_sold_to_party type bapisoldto,
+      lv_ship_to_party type bapishipto.
