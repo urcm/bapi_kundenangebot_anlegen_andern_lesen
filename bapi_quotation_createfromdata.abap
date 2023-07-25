@@ -68,3 +68,5 @@ lt_order_header_in-division = 'P1'.
 lt_order_header_in-qt_valid_f = '20230715'.
 lt_order_header_in-qt_valid_t = '20230730'.
 
+lv_sold_to_party-sold_to = '0000000049'.
+lv_ship_to_party-ship_to = '0000000049'.
