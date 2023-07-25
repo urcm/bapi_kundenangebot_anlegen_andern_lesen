@@ -70,3 +70,8 @@ lt_order_header_in-qt_valid_t = '20230730'.
 
 lv_sold_to_party-sold_to = '0000000049'.
 lv_ship_to_party-ship_to = '0000000049'.
+
+
+ls_order_partners-partn_role = 'AG'.
+ls_order_partners-partn_numb = '0000000049'.
+append ls_order_partners to lt_order_partners.
