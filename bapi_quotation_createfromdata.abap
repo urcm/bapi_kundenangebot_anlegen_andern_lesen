@@ -61,3 +61,10 @@ data: lt_order_cfgs_inst  type standard table of bapicuins.
 data: lt_order_cfgs_part_of  type standard table of bapicuprt.
 data: lt_order_cfgs_value  type standard table of bapicuval.
 
+lt_order_header_in-doc_type = 'AG'.
+lt_order_header_in-sales_org = 'ZM03'.
+lt_order_header_in-distr_chan = 'O1'.
+lt_order_header_in-division = 'P1'.
+lt_order_header_in-qt_valid_f = '20230715'.
+lt_order_header_in-qt_valid_t = '20230730'.
+
